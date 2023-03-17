@@ -1,0 +1,27 @@
+@charset "UTF-8";
+
+body {
+	background-color: teal;
+	font-family: 'Alegreya Sans SC';
+}
+
+.main {
+	display: flex;
+	justify-content: center;
+	padding: 5em;
+}
+
+.form-floating, #dept {
+	margin-top: 15px;
+	padding: 5px;
+	background-color: #DDFFE7;
+}
+
+.form-check {
+	padding-top: 5px;
+}
+
+#submit {
+	text-align: center;
+	padding: 5px;
+}
